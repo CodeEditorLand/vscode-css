@@ -1,7 +1,7 @@
 {
 	"description": "CSS support in VS Code",
 	"devDependencies": {
-		"coffeelint": "^2.1.0"
+		"coffeelint": "2.1.0"
 	},
 	"name": "vscode-css"
 }
