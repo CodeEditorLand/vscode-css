@@ -1,8 +1,8 @@
 {
-	"dependencies": {},
+	"name": "@codeeditorland/css",
 	"description": "CSS support in VS Code",
+	"dependencies": {},
 	"devDependencies": {
 		"coffeelint": "^1.10.1"
-	},
-	"name": "@codeeditorland/css"
+	}
 }
