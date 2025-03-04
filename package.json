@@ -4,6 +4,6 @@
 	"scripts": {},
 	"dependencies": {},
 	"devDependencies": {
-		"cson": "^8.2.0"
+		"cson": "8.4.0"
 	}
 }
